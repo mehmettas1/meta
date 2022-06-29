@@ -1,3 +1,15 @@
-body {
-    margin:0
+.card {
+    height: 90px;
+    background-color: peachpuff;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.card-logo {
+    width: 65%;
+    height: 70px;
+    transition: transform 0.3s ease-out;
 }
