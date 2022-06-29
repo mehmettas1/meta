@@ -4,8 +4,7 @@ import Card from './components/card/Card';
 
 function App() {
   return (
-    <div className="App">
-     <h1>Language Card projet</h1>
+    <div className="main-container">
      <Header/>
      <Card/>    
     </div>
