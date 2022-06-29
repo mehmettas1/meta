@@ -1,6 +1,7 @@
 import React from 'react';
 import Item from '../item/Item';
 import { languages} from "../../helpers/data";
+import "./Card.css";
 
 
 
